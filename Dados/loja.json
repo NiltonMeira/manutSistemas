@@ -1,20 +1,63 @@
 [
   {
     "id": 1,
-    "descricao": "Produto 1",
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm3cExnsB3qat_a-YqS4zThCXsiR4TWk2f4_-Do7MXhw&s",
+    "descricao": "Nissan Supra",
+    "imagem": "../src/images/carro1.jpg",
     "preco": 10.0
   },
   {
     "id": 2,
-    "descricao": "Produto 2",
-    "imagem": "https://storage.alboom.ninja/sites/7474/albuns/343827/fotografia-de-produtos-campinas-fotografo-publicidade-aloha-life-11.jpg?t=1541510096",
+    "descricao": "Subaru Wrx",
+    "imagem": "../src/images/carro2.webp",
     "preco": 20.0
   },
   {
     "id": 3,
-    "descricao": "Produto 3",
-    "imagem": "https://skinquer.com.br/cdn/shop/articles/blogordem.jpg?v=1687270129",
+    "descricao": "Nissan Silvia",
+    "imagem": "../src/images/carro3.jpg",
     "preco": 30.0
+  },
+  {
+    "id":4,
+    "descricao": "Nissan 350z",
+    "imagem": "../src/images/carro4.jpg",
+    "preco": 40.0
+    
+  },
+  {
+    "id":5,
+    "descricao": "Bmw m2",
+    "imagem": "../src/images/carro5.webp",
+    "preco": 40.0
+    
+  },
+  {
+    "id":6,
+    "descricao": "Audi rs6",
+    "imagem": "../src/images/carro6.webp",
+    "preco": 40.0
+    
+  },
+  {
+    "id":7,
+    "descricao": "Nissan Skyline",
+    "imagem": "../src/images/carro7.webp",
+    "preco": 40.0
+    
+  },
+  {
+    "id":8,
+    "descricao": "Nissan Skyline",
+    "imagem": "../src/images/carro8.jpg",
+    "preco": 40.0
+    
+  },
+  {
+    "id":9,
+    "descricao": "Porshe 911 gt3",
+    "imagem": "../src/images/carro9.webp",
+    "preco": 40.0
+    
   }
 ]
+

@@ -1,6 +1,8 @@
 function login() {
   var nome = $("#nome").val();
   var senha = $("#senha").val();
+  var modal = document.getElementById("myModal");
+  var closeBtn = document.getElementById("btnClose");
 
   if (nome && senha && nome === "admin" && senha === "admin") {
     const user = {
@@ -13,6 +15,13 @@ function login() {
 
     window.location.href = "../Loja/loja.html";
   } else {
-    //logica para se o nome e senha forem incorretos
+    modal.style.display = "block";
   }
+}
+
+function closeModal()
+{
+  var modal = document.getElementById("myModal");
+  
+  modal.style.display = "none"
 }
