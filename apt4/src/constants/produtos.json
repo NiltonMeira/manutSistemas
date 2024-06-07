@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "desc": "Cuidado pra não levar um choque",
+    "value": "40.000,00",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/025.png",
+    "type": "Elétrico",
+    "status": true
+    
+  },
+  {
+    "id": 2,
+    "name": "Squirtle",
+    "desc": "Vai te deixar molhadinha",
+    "value": "32.000,00",
+    "image": "https://i.pinimg.com/originals/51/e3/e1/51e3e17ba9a220e1738044e6363b8a76.png",
+    "type": "Aquatico",
+    "status": true
+  },
+  {
+    "id": 3,
+    "name": "Onix",
+    "desc": "1.0 turbo, completo",
+    "value": "52.000,00",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/095.png",
+    "type": "Pedra",
+    "status": false
+  },
+  {
+    "id": 4,
+    "name": "Snorlax",
+    "desc": "Você nunca mais ira dormir sozinha",
+    "value": "25.200,00",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/143.png",
+    "type": "Comum",
+    "status": true
+  },
+  {
+    "id": 5,
+    "name": "Charizard",
+    "desc": "Para você lembrar da ex",
+    "value": "72.200,00",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png",
+    "type": "Fogo",
+    "status": true
+  }
+]
